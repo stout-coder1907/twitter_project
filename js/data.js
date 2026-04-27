@@ -2,8 +2,8 @@ export const tweets = [
   {
     id: 0,
     profilePicture: "assets/images/user-profil.png",
-    name: "Altan Kurt",
-    username: "@aaltankurt",
+    name: "Sudhanshu",
+    username: "@sudhanshu1907",
     date: "1h",
     text: "I had gone out to take photos early in the morning, and it was my lucky day!",
     image: "assets/images/tw-pic-2.png",
